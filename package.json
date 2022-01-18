@@ -1,0 +1,23 @@
+{
+  "name": "spoiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelgrimberg/spoiler.git"
+  },
+  "keywords": [],
+  "author": "Joël Grimberg <joel@joelgrimberg.nl> (https://blog.joelgrimberg.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelgrimberg/spoiler/issues"
+  },
+  "homepage": "https://github.com/joelgrimberg/spoiler#readme",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
